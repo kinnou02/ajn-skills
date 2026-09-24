@@ -1,0 +1,6 @@
+{
+  "name": "ajn-skills",
+  "description": "Skills for explaining code changes and preparing branches for review.",
+  "version": "0.1.0",
+  "author": { "name": "Alexandre Jacquin" }
+}

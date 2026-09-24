@@ -1,0 +1,14 @@
+{
+  "name": "ajn-skills",
+  "owner": {
+    "name": "Alexandre Jacquin"
+  },
+  "description": "Claude Code skills shared by Alexandre Jacquin.",
+  "plugins": [
+    {
+      "name": "ajn-skills",
+      "source": "./",
+      "description": "Skills for explaining code changes and preparing branches for review."
+    }
+  ]
+}
